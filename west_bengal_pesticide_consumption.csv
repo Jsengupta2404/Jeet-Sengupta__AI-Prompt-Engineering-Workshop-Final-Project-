@@ -1,0 +1,151 @@
+Year,State,Zone,Agricultural_Season,Crop_Cultivated,Chemical_Name,Pesticide_Class,WHO_Toxicity_Grade,Estimated_Area_Treated_K_Ha,Consumption_Intensity_KG_Per_Ha,Total_Technical_Grade_Used_Tonnes
+2019,West Bengal,East,Zaid,Vegetables,Hexaconazole,Fungicide,Slightly Hazardous (III),27.79,0.329,9.14
+2020,West Bengal,East,Zaid,Sesame,Monocrotophos,Insecticide,Highly Hazardous (Ib),92.57,0.303,28.04
+2018,West Bengal,East,Kharif,Jute,Monocrotophos,Insecticide,Highly Hazardous (Ib),99.08,0.617,61.18
+2019,West Bengal,East,Zaid,Sesame,Pretilachlor,Herbicide,Slightly Hazardous (III),39.79,0.315,12.51
+2022,West Bengal,East,Rabi,Wheat,Mancozeb,Fungicide,Not Classed (U),8.84,0.349,3.09
+2020,West Bengal,East,Kharif,Jute,Mancozeb,Fungicide,Not Classed (U),8.17,0.753,6.15
+2023,West Bengal,East,Zaid,Vegetables,Hexaconazole,Fungicide,Slightly Hazardous (III),110.32,0.19,20.92
+2025,West Bengal,East,Kharif,Maize,Pretilachlor,Herbicide,Slightly Hazardous (III),58.85,0.231,13.62
+2018,West Bengal,East,Kharif,Jute,Cypermethrin,Insecticide,Moderately Hazardous (II),17.49,0.524,9.17
+2018,West Bengal,East,Kharif,Aman Paddy,Pretilachlor,Herbicide,Slightly Hazardous (III),15.56,0.23,3.58
+2020,West Bengal,East,Rabi,Potato,Carbendazim,Fungicide,Not Classed (U),107.42,0.963,103.4
+2018,West Bengal,East,Rabi,Potato,Glyphosate,Herbicide,Not Classed (U),73.72,0.687,50.66
+2019,West Bengal,East,Zaid,Sesame,Mancozeb,Fungicide,Not Classed (U),24.34,0.324,7.89
+2024,West Bengal,East,Kharif,Maize,Cypermethrin,Insecticide,Moderately Hazardous (II),10.15,0.291,2.95
+2024,West Bengal,East,Kharif,Aman Paddy,Hexaconazole,Fungicide,Slightly Hazardous (III),86.96,0.409,35.53
+2022,West Bengal,East,Zaid,Sesame,Glyphosate,Herbicide,Not Classed (U),103.4,0.381,39.38
+2024,West Bengal,East,Kharif,Maize,Glyphosate,Herbicide,Not Classed (U),118.9,0.327,38.84
+2025,West Bengal,East,Rabi,Wheat,Monocrotophos,Insecticide,Highly Hazardous (Ib),103.15,0.183,18.85
+2024,West Bengal,East,Zaid,Aus Paddy,Neem Formulation,Biopesticide,Not Classed (U),107.42,0.319,34.23
+2025,West Bengal,East,Rabi,Potato,Pretilachlor,Herbicide,Slightly Hazardous (III),112.21,0.663,74.44
+2021,West Bengal,East,Rabi,Potato,Pretilachlor,Herbicide,Slightly Hazardous (III),81.24,0.715,58.11
+2018,West Bengal,East,Kharif,Aman Paddy,Pretilachlor,Herbicide,Slightly Hazardous (III),53.91,0.414,22.34
+2019,West Bengal,East,Rabi,Boro Paddy,Mancozeb,Fungicide,Not Classed (U),85.14,0.866,73.7
+2026,West Bengal,East,Rabi,Mustard,Pretilachlor,Herbicide,Slightly Hazardous (III),112.42,0.336,37.76
+2025,West Bengal,East,Zaid,Sesame,Neem Formulation,Biopesticide,Not Classed (U),19.7,0.354,6.97
+2024,West Bengal,East,Kharif,Maize,Chlorpyrifos,Insecticide,Moderately Hazardous (II),110.6,0.209,23.13
+2021,West Bengal,East,Zaid,Sesame,Hexaconazole,Fungicide,Slightly Hazardous (III),68.06,0.242,16.49
+2024,West Bengal,East,Zaid,Aus Paddy,Glyphosate,Herbicide,Not Classed (U),111.83,0.362,40.52
+2021,West Bengal,East,Zaid,Aus Paddy,Cypermethrin,Insecticide,Moderately Hazardous (II),99.79,0.407,40.63
+2019,West Bengal,East,Kharif,Aman Paddy,Neem Formulation,Biopesticide,Not Classed (U),87.87,0.415,36.49
+2021,West Bengal,East,Rabi,Potato,Cypermethrin,Insecticide,Moderately Hazardous (II),66.58,0.684,45.53
+2019,West Bengal,East,Rabi,Mustard,Mancozeb,Fungicide,Not Classed (U),26.99,0.458,12.36
+2022,West Bengal,East,Zaid,Aus Paddy,Glyphosate,Herbicide,Not Classed (U),75.4,0.337,25.41
+2019,West Bengal,East,Zaid,Sesame,Monocrotophos,Insecticide,Highly Hazardous (Ib),116.52,0.3,34.97
+2020,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),29.08,0.379,11.03
+2026,West Bengal,East,Zaid,Vegetables,Chlorpyrifos,Insecticide,Moderately Hazardous (II),114.84,0.336,38.64
+2020,West Bengal,East,Kharif,Jute,Cypermethrin,Insecticide,Moderately Hazardous (II),71.06,0.671,47.65
+2019,West Bengal,East,Zaid,Vegetables,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),88.74,0.275,24.42
+2021,West Bengal,East,Kharif,Maize,Carbendazim,Fungicide,Not Classed (U),43.95,0.303,13.31
+2026,West Bengal,East,Rabi,Mustard,Hexaconazole,Fungicide,Slightly Hazardous (III),55.95,0.223,12.45
+2021,West Bengal,East,Rabi,Boro Paddy,Pretilachlor,Herbicide,Slightly Hazardous (III),91.01,0.631,57.46
+2023,West Bengal,East,Zaid,Sesame,Chlorpyrifos,Insecticide,Moderately Hazardous (II),24.01,0.286,6.87
+2025,West Bengal,East,Kharif,Aman Paddy,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),82.96,0.39,32.35
+2023,West Bengal,East,Zaid,Aus Paddy,Glyphosate,Herbicide,Not Classed (U),57.82,0.152,8.79
+2026,West Bengal,East,Kharif,Aman Paddy,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),83.59,0.307,25.65
+2026,West Bengal,East,Kharif,Jute,Hexaconazole,Fungicide,Slightly Hazardous (III),83.52,0.743,62.08
+2021,West Bengal,East,Rabi,Mustard,Neem Formulation,Biopesticide,Not Classed (U),44.33,0.281,12.45
+2018,West Bengal,East,Kharif,Jute,Pretilachlor,Herbicide,Slightly Hazardous (III),11.86,0.785,9.32
+2026,West Bengal,East,Rabi,Mustard,Cypermethrin,Insecticide,Moderately Hazardous (II),72.38,0.46,33.33
+2024,West Bengal,East,Kharif,Maize,Chlorpyrifos,Insecticide,Moderately Hazardous (II),96.08,0.301,28.92
+2026,West Bengal,East,Zaid,Sesame,Neem Formulation,Biopesticide,Not Classed (U),103.34,0.281,29.08
+2024,West Bengal,East,Zaid,Aus Paddy,Monocrotophos,Insecticide,Highly Hazardous (Ib),24.91,0.219,5.46
+2022,West Bengal,East,Rabi,Boro Paddy,Pretilachlor,Herbicide,Slightly Hazardous (III),39.18,0.61,23.91
+2019,West Bengal,East,Rabi,Boro Paddy,Carbendazim,Fungicide,Not Classed (U),109.91,0.781,85.82
+2020,West Bengal,East,Zaid,Sesame,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),49.29,0.322,15.9
+2023,West Bengal,East,Rabi,Boro Paddy,Chlorpyrifos,Insecticide,Moderately Hazardous (II),69.07,0.629,43.45
+2019,West Bengal,East,Kharif,Maize,Neem Formulation,Biopesticide,Not Classed (U),91.25,0.337,30.71
+2024,West Bengal,East,Zaid,Sesame,Carbendazim,Fungicide,Not Classed (U),78.5,0.359,28.17
+2023,West Bengal,East,Kharif,Maize,Monocrotophos,Insecticide,Highly Hazardous (Ib),42.67,0.216,9.22
+2024,West Bengal,East,Zaid,Sesame,Carbendazim,Fungicide,Not Classed (U),18.27,0.338,6.17
+2019,West Bengal,East,Kharif,Aman Paddy,Mancozeb,Fungicide,Not Classed (U),54.66,0.411,22.49
+2025,West Bengal,East,Rabi,Boro Paddy,Monocrotophos,Insecticide,Highly Hazardous (Ib),6.48,0.696,4.51
+2025,West Bengal,East,Zaid,Sesame,Pretilachlor,Herbicide,Slightly Hazardous (III),113.69,0.406,46.14
+2018,West Bengal,East,Zaid,Vegetables,Mancozeb,Fungicide,Not Classed (U),40.08,0.386,15.46
+2019,West Bengal,East,Zaid,Aus Paddy,Chlorpyrifos,Insecticide,Moderately Hazardous (II),66.41,0.139,9.23
+2024,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),88.12,0.196,17.29
+2024,West Bengal,East,Kharif,Jute,Carbendazim,Fungicide,Not Classed (U),5.03,0.494,2.49
+2023,West Bengal,East,Rabi,Boro Paddy,Cypermethrin,Insecticide,Moderately Hazardous (II),119.35,0.629,75.02
+2023,West Bengal,East,Kharif,Maize,Pretilachlor,Herbicide,Slightly Hazardous (III),10.76,0.336,3.62
+2023,West Bengal,East,Kharif,Aman Paddy,Chlorpyrifos,Insecticide,Moderately Hazardous (II),32.46,0.197,6.4
+2024,West Bengal,East,Rabi,Boro Paddy,Monocrotophos,Insecticide,Highly Hazardous (Ib),32.17,0.611,19.65
+2022,West Bengal,East,Zaid,Vegetables,Hexaconazole,Fungicide,Slightly Hazardous (III),115,0.405,46.53
+2023,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),20.42,0.482,9.84
+2021,West Bengal,East,Rabi,Mustard,Neem Formulation,Biopesticide,Not Classed (U),81.15,0.39,31.64
+2024,West Bengal,East,Rabi,Boro Paddy,Chlorpyrifos,Insecticide,Moderately Hazardous (II),90.12,0.48,43.23
+2025,West Bengal,East,Rabi,Boro Paddy,Glyphosate,Herbicide,Not Classed (U),108.08,0.652,70.49
+2022,West Bengal,East,Rabi,Potato,Chlorpyrifos,Insecticide,Moderately Hazardous (II),10.44,0.743,7.76
+2018,West Bengal,East,Kharif,Jute,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),78.39,0.728,57.08
+2019,West Bengal,East,Zaid,Aus Paddy,Carbendazim,Fungicide,Not Classed (U),29.67,0.344,10.22
+2024,West Bengal,East,Zaid,Sesame,Cypermethrin,Insecticide,Moderately Hazardous (II),94.9,0.178,16.87
+2023,West Bengal,East,Zaid,Sesame,Mancozeb,Fungicide,Not Classed (U),19.8,0.446,8.82
+2018,West Bengal,East,Kharif,Maize,Pretilachlor,Herbicide,Slightly Hazardous (III),32.43,0.212,6.86
+2020,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),54.15,0.371,20.07
+2024,West Bengal,East,Kharif,Aman Paddy,Hexaconazole,Fungicide,Slightly Hazardous (III),114.58,0.36,41.29
+2026,West Bengal,East,Rabi,Boro Paddy,Monocrotophos,Insecticide,Highly Hazardous (Ib),51.34,0.513,26.33
+2020,West Bengal,East,Kharif,Aman Paddy,Carbendazim,Fungicide,Not Classed (U),115.65,0.24,27.81
+2019,West Bengal,East,Rabi,Mustard,Neem Formulation,Biopesticide,Not Classed (U),66.2,0.348,23.01
+2024,West Bengal,East,Rabi,Boro Paddy,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),72.71,0.62,45.06
+2021,West Bengal,East,Kharif,Aman Paddy,Mancozeb,Fungicide,Not Classed (U),100.63,0.186,18.68
+2021,West Bengal,East,Rabi,Wheat,Mancozeb,Fungicide,Not Classed (U),88.36,0.404,35.72
+2018,West Bengal,East,Zaid,Vegetables,Glyphosate,Herbicide,Not Classed (U),86.64,0.352,30.48
+2021,West Bengal,East,Kharif,Maize,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),6.84,0.387,2.65
+2019,West Bengal,East,Rabi,Wheat,Neem Formulation,Biopesticide,Not Classed (U),107.29,0.436,46.77
+2020,West Bengal,East,Kharif,Aman Paddy,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),26.87,0.391,10.52
+2020,West Bengal,East,Kharif,Maize,Cypermethrin,Insecticide,Moderately Hazardous (II),32.84,0.564,18.51
+2025,West Bengal,East,Rabi,Wheat,Monocrotophos,Insecticide,Highly Hazardous (Ib),9.02,0.326,2.94
+2025,West Bengal,East,Kharif,Jute,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),115.54,0.663,76.6
+2025,West Bengal,East,Kharif,Maize,Glyphosate,Herbicide,Not Classed (U),86.74,0.282,24.45
+2023,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),102.3,0.348,35.58
+2020,West Bengal,East,Rabi,Wheat,Monocrotophos,Insecticide,Highly Hazardous (Ib),51.18,0.386,19.78
+2021,West Bengal,East,Zaid,Aus Paddy,Mancozeb,Fungicide,Not Classed (U),49.97,0.225,11.26
+2020,West Bengal,East,Rabi,Mustard,Mancozeb,Fungicide,Not Classed (U),108.42,0.404,43.75
+2025,West Bengal,East,Rabi,Mustard,Pretilachlor,Herbicide,Slightly Hazardous (III),11.07,0.374,4.14
+2020,West Bengal,East,Kharif,Jute,Chlorpyrifos,Insecticide,Moderately Hazardous (II),68.17,0.637,43.45
+2022,West Bengal,East,Rabi,Wheat,Mancozeb,Fungicide,Not Classed (U),28.11,0.319,8.95
+2021,West Bengal,East,Kharif,Aman Paddy,Chlorpyrifos,Insecticide,Moderately Hazardous (II),13.44,0.384,5.16
+2023,West Bengal,East,Zaid,Aus Paddy,Cypermethrin,Insecticide,Moderately Hazardous (II),102.8,0.166,17.07
+2025,West Bengal,East,Rabi,Boro Paddy,Glyphosate,Herbicide,Not Classed (U),96.32,0.621,59.82
+2018,West Bengal,East,Kharif,Jute,Chlorpyrifos,Insecticide,Moderately Hazardous (II),31.16,0.628,19.57
+2020,West Bengal,East,Zaid,Sesame,Carbendazim,Fungicide,Not Classed (U),89.02,0.195,17.33
+2018,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),29.74,0.405,12.05
+2026,West Bengal,East,Kharif,Jute,Glyphosate,Herbicide,Not Classed (U),17.62,0.615,10.83
+2020,West Bengal,East,Kharif,Jute,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),76.34,0.618,47.19
+2022,West Bengal,East,Zaid,Sesame,Monocrotophos,Insecticide,Highly Hazardous (Ib),27.52,0.265,7.29
+2026,West Bengal,East,Zaid,Sesame,Pretilachlor,Herbicide,Slightly Hazardous (III),63.22,0.435,27.53
+2019,West Bengal,East,Rabi,Mustard,Carbendazim,Fungicide,Not Classed (U),76,0.219,16.67
+2022,West Bengal,East,Zaid,Sesame,Pretilachlor,Herbicide,Slightly Hazardous (III),101.17,0.312,31.59
+2026,West Bengal,East,Rabi,Potato,Chlorpyrifos,Insecticide,Moderately Hazardous (II),37.26,0.596,22.2
+2021,West Bengal,East,Kharif,Aman Paddy,Cypermethrin,Insecticide,Moderately Hazardous (II),82.97,0.384,31.88
+2019,West Bengal,East,Kharif,Maize,Hexaconazole,Fungicide,Slightly Hazardous (III),26.69,0.294,7.84
+2026,West Bengal,East,Zaid,Vegetables,Carbendazim,Fungicide,Not Classed (U),76.09,0.254,19.32
+2024,West Bengal,East,Rabi,Wheat,Chlorpyrifos,Insecticide,Moderately Hazardous (II),70.91,0.113,8
+2021,West Bengal,East,Zaid,Sesame,Cypermethrin,Insecticide,Moderately Hazardous (II),117.51,0.382,44.83
+2023,West Bengal,East,Rabi,Wheat,Monocrotophos,Insecticide,Highly Hazardous (Ib),113.88,0.325,36.97
+2026,West Bengal,East,Rabi,Potato,Pretilachlor,Herbicide,Slightly Hazardous (III),90.71,0.568,51.55
+2022,West Bengal,East,Rabi,Boro Paddy,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),78.29,0.563,44.06
+2026,West Bengal,East,Kharif,Maize,Cypermethrin,Insecticide,Moderately Hazardous (II),47.69,0.402,19.18
+2025,West Bengal,East,Zaid,Sesame,Mancozeb,Fungicide,Not Classed (U),108.51,0.46,49.89
+2022,West Bengal,East,Kharif,Jute,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),82.48,0.536,44.18
+2022,West Bengal,East,Zaid,Sesame,Mancozeb,Fungicide,Not Classed (U),5.81,0.283,1.64
+2020,West Bengal,East,Rabi,Mustard,Cypermethrin,Insecticide,Moderately Hazardous (II),118.83,0.328,38.97
+2023,West Bengal,East,Kharif,Jute,Cypermethrin,Insecticide,Moderately Hazardous (II),105.17,0.587,61.71
+2022,West Bengal,East,Zaid,Vegetables,Pretilachlor,Herbicide,Slightly Hazardous (III),108.73,0.417,45.33
+2021,West Bengal,East,Zaid,Vegetables,Hexaconazole,Fungicide,Slightly Hazardous (III),25.96,0.429,11.13
+2021,West Bengal,East,Kharif,Aman Paddy,Cypermethrin,Insecticide,Moderately Hazardous (II),75.68,0.407,30.77
+2022,West Bengal,East,Rabi,Wheat,Glyphosate,Herbicide,Not Classed (U),65.8,0.27,17.77
+2024,West Bengal,East,Kharif,Jute,Cartap Hydrochloride,Insecticide,Moderately Hazardous (II),42.07,0.535,22.52
+2026,West Bengal,East,Rabi,Boro Paddy,Monocrotophos,Insecticide,Highly Hazardous (Ib),81.82,0.664,54.3
+2024,West Bengal,East,Zaid,Sesame,Carbendazim,Fungicide,Not Classed (U),98.12,0.286,28.05
+2026,West Bengal,East,Rabi,Wheat,Glyphosate,Herbicide,Not Classed (U),45.56,0.24,10.93
+2025,West Bengal,East,Rabi,Potato,Cypermethrin,Insecticide,Moderately Hazardous (II),12.69,0.574,7.28
+2024,West Bengal,East,Kharif,Maize,Cypermethrin,Insecticide,Moderately Hazardous (II),111.27,0.266,29.65
+2018,West Bengal,East,Zaid,Sesame,Cypermethrin,Insecticide,Moderately Hazardous (II),53.4,0.396,21.15
+2024,West Bengal,East,Zaid,Sesame,Pretilachlor,Herbicide,Slightly Hazardous (III),118.83,0.205,24.33
+2026,West Bengal,East,Rabi,Boro Paddy,Mancozeb,Fungicide,Not Classed (U),39.43,0.999,39.38
+2023,West Bengal,East,Rabi,Potato,Chlorpyrifos,Insecticide,Moderately Hazardous (II),107.43,0.558,59.89
+2018,West Bengal,East,Rabi,Wheat,Cypermethrin,Insecticide,Moderately Hazardous (II),44.49,0.263,11.7
+2019,West Bengal,East,Rabi,Mustard,Mancozeb,Fungicide,Not Classed (U),11.45,0.208,2.38
+2018,West Bengal,East,Rabi,Mustard,Cypermethrin,Insecticide,Moderately Hazardous (II),86.9,0.431,37.41
+2019,West Bengal,East,Rabi,Mustard,Chlorpyrifos,Insecticide,Moderately Hazardous (II),69.92,0.286,20.01
